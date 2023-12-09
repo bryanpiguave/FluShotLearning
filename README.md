@@ -2,6 +2,10 @@
 Predict H1N1 and Seasonal Flu Vaccines 
 
 ![Intro-image](https://drivendata-public-assets.s3.amazonaws.com/flu-vaccine.jpg)
+
+The goal is to predict how likely individuals are to receive their H1N1 and seasonal flu vaccines. Specifically, It is required to predict two probabilities: one for h1n1_vaccine and one for seasonal_vaccine.
+
+
 ## Table of Contents
 
 - [Project Description](#project-description)
