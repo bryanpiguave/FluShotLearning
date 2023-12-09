@@ -31,6 +31,8 @@ install.packages("olsrr")
 install.packages("randomForest")
 install.packages("caret")
 ```
+# Usage 
+The model training is found in the ```main.R``` file
 
 # Author 
 Bryan Piguave 
