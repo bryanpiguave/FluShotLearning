@@ -1,6 +1,7 @@
 # FluShotLearning
 Predict H1N1 and Seasonal Flu Vaccines 
 
+![Intro-image](https://drivendata-public-assets.s3.amazonaws.com/flu-vaccine.jpg)
 ## Table of Contents
 
 - [Project Description](#project-description)
